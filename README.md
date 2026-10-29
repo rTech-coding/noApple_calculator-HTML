@@ -20,6 +20,4 @@
 * **JavaScript Vanilla** (Toda la lógica de la calculadora)
 
 
-## ✒️ Créditos
-
-Creado por rTech.
+## Creado por rTech
